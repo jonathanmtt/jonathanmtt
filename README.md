@@ -1,7 +1,7 @@
 ### Hello World! Eu sou o Jonathan Mattos 👋
 
 - 🔭 Hoje trabalho como "Cabo" no Exército Brasileiro
-- 🌱 Estudando Python 
+- 🌱 Futuro Engenheiro de Software! 
 
 <div align="center">
   <a href="https://github.com/jonathanmtt">
