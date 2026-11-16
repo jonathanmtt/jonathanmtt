@@ -10,14 +10,13 @@
 
 - **Websites & landing pages** — mobile-first, fast, SEO-ready, usually live in about a week
 - **Website redesigns** — turning outdated sites into modern ones that actually convert
-- **Automation & AI** — chat assistants, lead forms, simple CRMs and dashboards
+- **Automation** — lead forms, booking and simple dashboards that save owners time
 
 ### Featured work
 
 | Project | What it is |
 |---|---|
 | [Kaique Nômade](https://kaiquenomade.com.br) | Online English course: sales page, student area and study tools (client project) |
-| [kaique-nomade-agent](https://github.com/jonathanmtt/kaique-nomade-agent) | AI sales & support agent ("Ana") with a WhatsApp conversation simulator |
 | [portfolio](https://github.com/jonathanmtt/portfolio) | My bilingual (EN/PT) portfolio site — plain HTML/CSS/JS on Cloudflare Pages |
 | [Ironside Auto Repair](https://github.com/jonathanmtt/portfolio/tree/main/demos/auto-repair) | Concept site for an auto repair shop: booking form, upfront-pricing story |
 | [BrightNest Home Cleaning](https://github.com/jonathanmtt/portfolio/tree/main/demos/cleaning) | Concept site for a cleaning company: instant quotes, fully bilingual |
